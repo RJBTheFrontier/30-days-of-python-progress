@@ -6,8 +6,8 @@ My personal solutions and progress tracker for the [30 Days of Python Challenge]
 
 | Day | Topic | Status |
 |---|---|---|
-| **01** | Introduction & Data Types | ⬜ Not Started |
-| **02** | Built-in Functions & Variables | ⬜ Not Started |
+| **01** | Introduction & Data Types | 🟩 Completed |
+| **02** | Built-in Functions & Variables | 🟩 Completed |
 | **03** | Operators | ⬜ Not Started |
 | **04** | Strings | ⬜ Not Started |
 | **05** | Lists | ⬜ Not Started |
@@ -36,8 +36,6 @@ My personal solutions and progress tracker for the [30 Days of Python Challenge]
 | **28** | API | ⬜ Not Started |
 | **29** | Building API | ⬜ Not Started |
 | **30** | Conclusions | ⬜ Not Started |
-
-*Change `⬜ Not Started` to `✅ Completed` as you progress through the days!*
 
 ## 🛠️ Tech Stack & Requirements
 
